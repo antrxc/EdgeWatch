@@ -1,2 +1,4 @@
-paho-mqtt
-aiocoap
+smbus
+RPi.GPIO
+serial
+Adafruit-DHT
